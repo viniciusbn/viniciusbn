@@ -23,8 +23,8 @@ Hi there I am Vinícius Nascimento 👋 <br>
   <a href="https://www.linkedin.com/in/vbnascimento/" rel="nofollow">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="75" height="25" alt="Linkedin"/>
   </a>
-  <a href="mailto:vbn.git@nascimento.page"" rel="nofollow">
-    <img src="https://tips.tutorialhorizon.com/files/2016/08/Outlook-2013-logo-icon.gif" width="75" height="25" alt="Outlook">
+  <a href="mailto:vbn.git@nascimento.page" rel="nofollow">
+  <img src="https://tips.tutorialhorizon.com/files/2016/08/Outlook-2013-logo-icon.gif" width="75" height="25" alt="Outlook"/>
   </a>
 </p>
 <h2 dir="auto"> </h2>
