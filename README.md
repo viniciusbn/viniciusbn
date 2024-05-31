@@ -7,8 +7,8 @@ Hi there I am Vinícius Nascimento 👋 <br>
 <h2 dir="auto"> </h2>
 <h3>Stack:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75" height="25" alt="AWS"/>
-  <img src="https://camo.githubusercontent.com/79c115f5f7c3c6cd19b8ec09c8e139b061e891a05046cde5d7b9dcd0532d3485/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7465727261666f726d2d2532333538333543432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7465727261666f726d266c6f676f436f6c6f723d7768697465" width="75" height="25" alt="TERRAFORM">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="75" height="25" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original-wordmark.svg" width="75" height="25" alt="TERRAFORM"/>
   <img src="https://camo.githubusercontent.com/922a5d8888929fc17acaaf995fe42f50788f30a5b58f45b03c6bafc9e4b5791f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b756265726e657465732d2532333332366365352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b756265726e65746573266c6f676f436f6c6f723d7768697465" width="75" height="25" alt="KURBENETES">
   <img src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" width="75" height="25" alt="DOCKER">
   <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" width="75" height="25" alt="LINUX">
